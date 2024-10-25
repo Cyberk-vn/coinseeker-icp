@@ -1,6 +1,6 @@
 {
     "canisters": {
-      "www": {
+      "coinseeker": {
         "frontend": {
           "entrypoint": "assets/src/index.html"
         },
